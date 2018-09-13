@@ -1,4 +1,3 @@
-# UserAgentWithHTML
 iOS中强行设定UserAgent用AFNetworking请求拿到HTML
 开始正题：（代码顺序1、2、3都放在一个方法里，其中2只负责测试参考，可以不添加）
 
